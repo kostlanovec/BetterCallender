@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="lupaorangeagain.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.05375"
+     inkscape:cx="399.5255"
+     inkscape:cy="400.94899"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#020202;stroke-miterlimit:10;stroke-width:1.91px;}</style>
+  </defs>
+  <circle
+     class="cls-1"
+     cx="9.14"
+     cy="9.14"
+     r="7.64"
+     id="circle6"
+     style="stroke-width:1.91001;stroke-dasharray:none;stroke:#fc3e34;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="22.5"
+     y1="22.5"
+     x2="14.39"
+     y2="14.39"
+     id="line8"
+     style="fill:#ffd5d5;stroke:#fc3e34;stroke-opacity:1" />
+</svg>
