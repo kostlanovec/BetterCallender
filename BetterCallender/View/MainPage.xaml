@@ -1,0 +1,36 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Microsoft.Maui.Controls.Compatibility;assembly=Microsoft.Maui.Controls.Compatibility"
+             xmlns:local="clr-namespace:BetterCallender"
+             x:Class="BetterCallender.MainPage"
+             Title="{Binding CurrentMonthYear}"
+             BackgroundColor="White">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem IconImageSource="{Binding IconSource}" Command="{Binding LayoutWhiteCommand}" />
+        <ToolbarItem IconImageSource="lupaorangeagain.png"
+                 Command="{Binding LupaOrangeAgainCommand}" />
+        <ToolbarItem IconImageSource="orangeplus.png"
+                 Command="{Binding OrangePlusCommand}"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <Grid ColumnSpacing="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Text="M" HorizontalOptions="CenterAndExpand" TextColor="Black" Grid.Column="0"/>
+            <Label Text="T" HorizontalOptions="CenterAndExpand" TextColor="Black" Grid.Column="1"/>
+            <Label Text="W" HorizontalOptions="CenterAndExpand" TextColor="Black" Grid.Column="2"/>
+            <Label Text="T" HorizontalOptions="CenterAndExpand" TextColor="Black" Grid.Column="3"/>
+            <Label Text="F" HorizontalOptions="CenterAndExpand" TextColor="Black" Grid.Column="4"/>
+            <Label Text="S" HorizontalOptions="CenterAndExpand" TextColor="Gray" Grid.Column="5"/>
+            <Label Text="S" HorizontalOptions="CenterAndExpand" TextColor="Gray" Grid.Column="6"/>
+            <BoxView Grid.ColumnSpan="7" BackgroundColor="Black" HeightRequest="1" VerticalOptions="End" />
+        </Grid>
+    </StackLayout>
+</ContentPage>

@@ -2,7 +2,9 @@
 <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:BetterCallender"
-             x:Class="BetterCallender.App">
+             x:Class="BetterCallender.App"
+             Shell.TabBarTitleColor="Red"
+             Shell.TitleColor="Red">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

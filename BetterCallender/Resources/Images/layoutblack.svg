@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
 <svg
    width="800px"
    height="800px"
@@ -7,7 +9,7 @@
    stroke="#ffffff"
    version="1.1"
    id="svg11"
-   sodipodi:docname="layoutwhite.svg"
+   sodipodi:docname="layoutblack.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +29,7 @@
      showgrid="false"
      inkscape:zoom="1.05375"
      inkscape:cx="399.5255"
-     inkscape:cy="452.19454"
+     inkscape:cy="305.10083"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="2391"
@@ -41,14 +43,6 @@
      id="SVGRepo_tracerCarrier"
      stroke-linecap="round"
      stroke-linejoin="round" />
-  <rect
-     style="fill:#fa392c;fill-opacity:1;stroke:none;stroke-width:2.36428;stroke-opacity:1"
-     id="rect850"
-     width="24.020992"
-     height="24.049459"
-     x="-0.010495413"
-     y="-0.038965184"
-     ry="3.7864769" />
   <g
      id="SVGRepo_iconCarrier"
      transform="matrix(0.83223183,0,0,0.83223183,2.1576004,2.132181)">
@@ -56,16 +50,19 @@
        d="M 3,6 C 3,3.79086 4.79086,2 7,2 h 10 c 2.2091,0 4,1.79086 4,4 0,2.20914 -1.7909,4 -4,4 H 7 C 4.79086,10 3,8.20914 3,6 Z"
        stroke="#ffffff"
        stroke-width="2"
-       id="path4" />
+       id="path4"
+       style="stroke:#fa392c;stroke-opacity:1" />
     <path
        d="m 3,16 c 0,-1.1046 0.89543,-2 2,-2 h 3 c 1.10457,0 2,0.8954 2,2 v 3 c 0,1.1046 -0.89543,2 -2,2 H 5 C 3.89543,21 3,20.1046 3,19 Z"
        stroke="#ffffff"
        stroke-width="2"
-       id="path6" />
+       id="path6"
+       style="stroke:#fa392c;stroke-opacity:1" />
     <path
        d="M 14,17.5 C 14,15.567 15.567,14 17.5,14 19.433,14 21,15.567 21,17.5 21,19.433 19.433,21 17.5,21 15.567,21 14,19.433 14,17.5 Z"
        stroke="#ffffff"
        stroke-width="2"
-       id="path8" />
+       id="path8"
+       style="stroke:#fa392c;stroke-opacity:1" />
   </g>
 </svg>

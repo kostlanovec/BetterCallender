@@ -1,11 +1,20 @@
-﻿namespace BetterCallender;
+﻿using BetterCallender.View;
+
+namespace BetterCallender;
 
 public partial class App : Application
 {
-	public App()
-	{
-		InitializeComponent();
+    public App()
+    {
+        InitializeComponent();
 
-		MainPage = new AppShell();
-	}
+        var calllendarList = new CalllendarList();
+
+        MainPage = new NavigationPage(calllendarList)
+        {
+            BarBackgroundColor = Colors.White,
+            BarTextColor = Colors.Red
+        };
+    }
+
 }
