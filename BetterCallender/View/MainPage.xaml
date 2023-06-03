@@ -33,4 +33,6 @@
             <BoxView Grid.ColumnSpan="7" BackgroundColor="Black" HeightRequest="1" VerticalOptions="End" />
         </Grid>
     </StackLayout>
+    
+
 </ContentPage>
