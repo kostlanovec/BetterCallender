@@ -659,7 +659,6 @@ namespace BetterCallender
             {
                 isScrollable = true;
                 stackLayout.Children.Clear();
-                scrollView.Content = stackLayout;
                 GenerateScrollableCalendarGrids();
             }
         }
